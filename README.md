@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">Hi there 🌱</h2>
 
 <h3 align="center">my field of study:</h3>
 <p align="center">
