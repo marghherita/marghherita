@@ -1,5 +1,9 @@
 <h2 align="center">Hi there 🌱</h2>
 
+``
+{ name: Margherita, age: 24, country: Italy }
+``
+
 <h3 align="center">my field of study:</h3>
 <p align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
