@@ -12,7 +12,7 @@
 
 
 <h3 align="center">my field of study:</h3>
-<p align="center">
+<div align="center">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
@@ -26,7 +26,7 @@
   <br/>
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-</p>
+</div>
 
 <!--
 **marghherita/marghherita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
