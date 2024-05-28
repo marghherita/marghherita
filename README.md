@@ -6,7 +6,7 @@
 <div align="center">
   
 ```
-{ name: Margherita, age: 26, country: Italy }
+{ name: Margherita, age: 27, country: Italy }
 ```
 </div>
 
